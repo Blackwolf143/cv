@@ -35,7 +35,7 @@ const About = () => {
               textAlign: "right",
             }}
           >
-         <a className="resume1" href="https://drive.google.com/file/d/1wk8o9RltBLfXXzFcNBlkic1OXN0b7cTE/view?usp=sharing" target="black">
+         <a className="resume1" href="https://drive.google.com/file/d/13ETUifBrzfjvvEiSmFNF4uRzQ3NoYULT/view?usp=sharing" target="black">
 
              <Button ><p style={{color: "black",fontWeight:"500"}}>CLICK ME TO SEE RESUME</p></Button>
                           
